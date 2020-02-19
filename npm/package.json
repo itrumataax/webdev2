@@ -1,0 +1,23 @@
+{
+  "name": "trumata",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start-npm": "how-to-npm",
+    "verify-npm": "how-to-npm verify",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "trumata"
+  },
+  "description": "Hi po"
+}
